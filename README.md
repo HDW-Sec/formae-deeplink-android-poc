@@ -6,7 +6,7 @@
 > vulnérabilité à des fins pédagogiques et de sensibilisation, à n'utiliser que
 > dans un cadre autorisé.
 
-Démonstration jouable de la faille décrite dans [un article du blog HDW Sec](https://hdwsec.fr/fr/blog/) :
+Démonstration jouable de la faille décrite dans [un article du blog HDW Sec](https://hdwsec.fr/fr/blog/pentest-mobile-deep-link/) :
 un simple lien suffit à exfiltrer le jeton de session d'un utilisateur.
 
 C'est une **ressource technique pour les curieux**, pas un produit. Tout est
